@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "rootOld",
+    "password": null,
+    "database": "uaq-admin",
+    "host": "127.0.0.1",
+    "dialect": "mariadb"
+  }
+}
